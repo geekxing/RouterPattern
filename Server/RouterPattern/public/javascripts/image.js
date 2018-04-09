@@ -4,7 +4,7 @@ const fs = require('fs');
 let imgSuffixes = ["png", "gif", "jpeg", "jpg"]
 
 http.createServer((req, res) => {
-    console.log(req.url);
+    console.log(req.headers.host + req.url);
 
     let path = '..' + decodeURI(req.url)
 
