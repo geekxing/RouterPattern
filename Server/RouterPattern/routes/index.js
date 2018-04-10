@@ -1,12 +1,14 @@
 const router = require('koa-router')()
 
+router.prefix('/routes/api');
+
 router.get('/', async (ctx, next) => {
   await ctx.render('index', {
     title: 'Hello Koa 2!'
   })
 })
 
-router.get('/haha', async (ctx, next) => {
+router.get('/pdf/51pdf', async (ctx, next) => {
     await ctx.render('viewer.html', {
       file: '111.pdf'
     });

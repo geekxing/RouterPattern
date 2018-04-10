@@ -2,381 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c5b566a5-5f30-4cd8-a5fe-e11ec7c74f78" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/viewer.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/78-EUC-H.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/78-EUC-V.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/78-H.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/78-RKSJ-H.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/78-RKSJ-V.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/78-V.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/78ms-RKSJ-H.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/78ms-RKSJ-V.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/83pv-RKSJ-H.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/90ms-RKSJ-H.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/90ms-RKSJ-V.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/90msp-RKSJ-H.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/90msp-RKSJ-V.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/90pv-RKSJ-H.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/90pv-RKSJ-V.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/Add-H.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/Add-RKSJ-H.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/Add-RKSJ-V.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/Add-V.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/Adobe-CNS1-0.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/Adobe-CNS1-1.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/Adobe-CNS1-2.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/Adobe-CNS1-3.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/Adobe-CNS1-4.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/Adobe-CNS1-5.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/Adobe-CNS1-6.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/Adobe-CNS1-UCS2.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/Adobe-GB1-0.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/Adobe-GB1-1.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/Adobe-GB1-2.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/Adobe-GB1-3.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/Adobe-GB1-4.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/Adobe-GB1-5.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/Adobe-GB1-UCS2.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/Adobe-Japan1-0.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/Adobe-Japan1-1.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/Adobe-Japan1-2.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/Adobe-Japan1-3.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/Adobe-Japan1-4.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/Adobe-Japan1-5.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/Adobe-Japan1-6.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/Adobe-Japan1-UCS2.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/Adobe-Korea1-0.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/Adobe-Korea1-1.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/Adobe-Korea1-2.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/Adobe-Korea1-UCS2.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/B5-H.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/B5-V.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/B5pc-H.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/B5pc-V.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/CNS-EUC-H.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/CNS-EUC-V.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/CNS1-H.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/CNS1-V.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/CNS2-H.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/CNS2-V.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/ETHK-B5-H.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/ETHK-B5-V.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/ETen-B5-H.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/ETen-B5-V.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/ETenms-B5-H.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/ETenms-B5-V.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/EUC-H.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/EUC-V.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/Ext-H.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/Ext-RKSJ-H.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/Ext-RKSJ-V.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/Ext-V.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/GB-EUC-H.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/GB-EUC-V.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/GB-H.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/GB-V.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/GBK-EUC-H.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/GBK-EUC-V.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/GBK2K-H.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/GBK2K-V.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/GBKp-EUC-H.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/GBKp-EUC-V.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/GBT-EUC-H.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/GBT-EUC-V.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/GBT-H.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/GBT-V.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/GBTpc-EUC-H.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/GBTpc-EUC-V.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/GBpc-EUC-H.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/GBpc-EUC-V.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/H.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/HKdla-B5-H.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/HKdla-B5-V.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/HKdlb-B5-H.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/HKdlb-B5-V.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/HKgccs-B5-H.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/HKgccs-B5-V.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/HKm314-B5-H.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/HKm314-B5-V.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/HKm471-B5-H.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/HKm471-B5-V.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/HKscs-B5-H.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/HKscs-B5-V.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/Hankaku.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/Hiragana.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/KSC-EUC-H.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/KSC-EUC-V.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/KSC-H.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/KSC-Johab-H.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/KSC-Johab-V.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/KSC-V.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/KSCms-UHC-H.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/KSCms-UHC-HW-H.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/KSCms-UHC-HW-V.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/KSCms-UHC-V.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/KSCpc-EUC-H.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/KSCpc-EUC-V.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/Katakana.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/NWP-H.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/NWP-V.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/RKSJ-H.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/RKSJ-V.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/Roman.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/UniCNS-UCS2-H.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/UniCNS-UCS2-V.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/UniCNS-UTF16-H.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/UniCNS-UTF16-V.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/UniCNS-UTF32-H.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/UniCNS-UTF32-V.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/UniCNS-UTF8-H.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/UniCNS-UTF8-V.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/UniGB-UCS2-H.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/UniGB-UCS2-V.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/UniGB-UTF16-H.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/UniGB-UTF16-V.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/UniGB-UTF32-H.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/UniGB-UTF32-V.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/UniGB-UTF8-H.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/UniGB-UTF8-V.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/UniJIS-UCS2-H.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/UniJIS-UCS2-HW-H.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/UniJIS-UCS2-HW-V.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/UniJIS-UCS2-V.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/UniJIS-UTF16-H.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/UniJIS-UTF16-V.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/UniJIS-UTF32-H.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/UniJIS-UTF32-V.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/UniJIS-UTF8-H.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/UniJIS-UTF8-V.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/UniJIS2004-UTF16-H.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/UniJIS2004-UTF16-V.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/UniJIS2004-UTF32-H.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/UniJIS2004-UTF32-V.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/UniJIS2004-UTF8-H.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/UniJIS2004-UTF8-V.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/UniJISPro-UCS2-HW-V.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/UniJISPro-UCS2-V.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/UniJISPro-UTF8-V.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/UniJISX0213-UTF32-H.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/UniJISX0213-UTF32-V.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/UniJISX02132004-UTF32-H.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/UniJISX02132004-UTF32-V.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/UniKS-UCS2-H.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/UniKS-UCS2-V.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/UniKS-UTF16-H.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/UniKS-UTF16-V.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/UniKS-UTF32-H.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/UniKS-UTF32-V.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/UniKS-UTF8-H.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/UniKS-UTF8-V.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/V.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/cmaps/WP-Symbol.bcmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/debugger.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/images/annotation-check.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/images/annotation-comment.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/images/annotation-help.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/images/annotation-insert.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/images/annotation-key.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/images/annotation-newparagraph.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/images/annotation-noicon.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/images/annotation-note.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/images/annotation-paragraph.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/images/findbarButton-next-rtl.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/images/findbarButton-next-rtl@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/images/findbarButton-next.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/images/findbarButton-next@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/images/findbarButton-previous-rtl.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/images/findbarButton-previous-rtl@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/images/findbarButton-previous.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/images/findbarButton-previous@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/images/grab.cur" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/images/grabbing.cur" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/images/loading-icon.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/images/loading-small.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/images/loading-small@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/images/secondaryToolbarButton-documentProperties.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/images/secondaryToolbarButton-documentProperties@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/images/secondaryToolbarButton-firstPage.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/images/secondaryToolbarButton-firstPage@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/images/secondaryToolbarButton-handTool.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/images/secondaryToolbarButton-handTool@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/images/secondaryToolbarButton-lastPage.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/images/secondaryToolbarButton-lastPage@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/images/secondaryToolbarButton-rotateCcw.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/images/secondaryToolbarButton-rotateCcw@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/images/secondaryToolbarButton-rotateCw.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/images/secondaryToolbarButton-rotateCw@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/images/secondaryToolbarButton-selectTool.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/images/secondaryToolbarButton-selectTool@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/images/shadow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/images/texture.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/images/toolbarButton-bookmark.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/images/toolbarButton-bookmark@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/images/toolbarButton-download.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/images/toolbarButton-download@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/images/toolbarButton-menuArrows.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/images/toolbarButton-menuArrows@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/images/toolbarButton-openFile.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/images/toolbarButton-openFile@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/images/toolbarButton-pageDown-rtl.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/images/toolbarButton-pageDown-rtl@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/images/toolbarButton-pageDown.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/images/toolbarButton-pageDown@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/images/toolbarButton-pageUp-rtl.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/images/toolbarButton-pageUp-rtl@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/images/toolbarButton-pageUp.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/images/toolbarButton-pageUp@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/images/toolbarButton-presentationMode.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/images/toolbarButton-presentationMode@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/images/toolbarButton-print.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/images/toolbarButton-print@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/images/toolbarButton-search.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/images/toolbarButton-search@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/images/toolbarButton-secondaryToolbarToggle-rtl.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/images/toolbarButton-secondaryToolbarToggle-rtl@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/images/toolbarButton-secondaryToolbarToggle.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/images/toolbarButton-secondaryToolbarToggle@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/images/toolbarButton-sidebarToggle-rtl.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/images/toolbarButton-sidebarToggle-rtl@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/images/toolbarButton-sidebarToggle.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/images/toolbarButton-sidebarToggle@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/images/toolbarButton-viewAttachments.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/images/toolbarButton-viewAttachments@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/images/toolbarButton-viewOutline-rtl.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/images/toolbarButton-viewOutline-rtl@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/images/toolbarButton-viewOutline.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/images/toolbarButton-viewOutline@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/images/toolbarButton-viewThumbnail.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/images/toolbarButton-viewThumbnail@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/images/toolbarButton-zoomIn.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/images/toolbarButton-zoomIn@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/images/toolbarButton-zoomOut.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/images/toolbarButton-zoomOut@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/images/treeitem-collapsed-rtl.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/images/treeitem-collapsed-rtl@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/images/treeitem-collapsed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/images/treeitem-collapsed@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/images/treeitem-expanded.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/images/treeitem-expanded@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/locale/ach/viewer.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/locale/af/viewer.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/locale/ak/viewer.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/locale/an/viewer.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/locale/ar/viewer.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/locale/as/viewer.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/locale/ast/viewer.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/locale/az/viewer.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/locale/be/viewer.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/locale/bg/viewer.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/locale/bn-BD/viewer.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/locale/bn-IN/viewer.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/locale/br/viewer.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/locale/bs/viewer.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/locale/ca/viewer.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/locale/cs/viewer.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/locale/csb/viewer.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/locale/cy/viewer.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/locale/da/viewer.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/locale/de/viewer.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/locale/el/viewer.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/locale/en-GB/viewer.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/locale/en-US/viewer.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/locale/en-ZA/viewer.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/locale/eo/viewer.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/locale/es-AR/viewer.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/locale/es-CL/viewer.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/locale/es-ES/viewer.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/locale/es-MX/viewer.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/locale/et/viewer.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/locale/eu/viewer.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/locale/fa/viewer.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/locale/ff/viewer.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/locale/fi/viewer.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/locale/fr/viewer.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/locale/fy-NL/viewer.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/locale/ga-IE/viewer.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/locale/gd/viewer.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/locale/gl/viewer.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/locale/gu-IN/viewer.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/locale/he/viewer.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/locale/hi-IN/viewer.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/locale/hr/viewer.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/locale/hu/viewer.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/locale/hy-AM/viewer.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/locale/id/viewer.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/locale/is/viewer.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/locale/it/viewer.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/locale/ja/viewer.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/locale/ka/viewer.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/locale/kk/viewer.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/locale/km/viewer.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/locale/kn/viewer.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/locale/ko/viewer.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/locale/ku/viewer.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/locale/lg/viewer.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/locale/lij/viewer.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/locale/locale.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/locale/lt/viewer.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/locale/lv/viewer.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/locale/mai/viewer.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/locale/mk/viewer.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/locale/ml/viewer.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/locale/mn/viewer.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/locale/mr/viewer.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/locale/ms/viewer.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/locale/my/viewer.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/locale/nb-NO/viewer.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/locale/nl/viewer.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/locale/nn-NO/viewer.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/locale/nso/viewer.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/locale/oc/viewer.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/locale/or/viewer.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/locale/pa-IN/viewer.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/locale/pl/viewer.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/locale/pt-BR/viewer.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/locale/pt-PT/viewer.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/locale/rm/viewer.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/locale/ro/viewer.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/locale/ru/viewer.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/locale/rw/viewer.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/locale/sah/viewer.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/locale/si/viewer.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/locale/sk/viewer.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/locale/sl/viewer.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/locale/son/viewer.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/locale/sq/viewer.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/locale/sr/viewer.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/locale/sv-SE/viewer.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/locale/sw/viewer.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/locale/ta-LK/viewer.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/locale/ta/viewer.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/locale/te/viewer.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/locale/th/viewer.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/locale/tl/viewer.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/locale/tn/viewer.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/locale/tr/viewer.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/locale/uk/viewer.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/locale/ur/viewer.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/locale/vi/viewer.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/locale/wo/viewer.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/locale/xh/viewer.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/locale/zh-CN/viewer.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/locale/zh-TW/viewer.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/locale/zu/viewer.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/files/pdf/web/viewer.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/javascripts/pdf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/javascripts/pdf.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/javascripts/pdf.worker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/javascripts/pdf.worker.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/javascripts/viewer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/javascripts/viewer.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/mypdf.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/J1/五一南京行程.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/public/files/pdf/web/五一南京行程.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/api/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/api/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/index.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -391,32 +17,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/routes/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+            <state relative-caret-position="45">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app.js">
+      <file leaf-file-name="users.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/routes/users.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="64">
-              <caret line="23" selection-start-line="23" selection-end-line="23" />
+            <state relative-caret-position="30">
+              <caret line="2" column="23" lean-forward="true" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="viewer.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/public/javascripts/viewer.js">
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/routes/api/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="182">
-              <caret line="2061" column="45" lean-forward="true" selection-start-line="2061" selection-start-column="45" selection-end-line="2061" selection-end-column="45" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
+            <state relative-caret-position="45">
+              <caret line="3" column="29" lean-forward="true" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -460,7 +83,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/routes/api/index.js" />
         <option value="$PROJECT_DIR$/routes/api/J1_router.js" />
         <option value="$PROJECT_DIR$/app/error/ApiError.js" />
         <option value="$PROJECT_DIR$/middlewares/response_formatter.js" />
@@ -472,8 +94,9 @@
         <option value="$PROJECT_DIR$/public/files/pdf/web/viewer.html" />
         <option value="$PROJECT_DIR$/app.js" />
         <option value="$PROJECT_DIR$/package.json" />
-        <option value="$PROJECT_DIR$/routes/index.js" />
         <option value="$PROJECT_DIR$/public/javascripts/viewer.js" />
+        <option value="$PROJECT_DIR$/routes/api/index.js" />
+        <option value="$PROJECT_DIR$/routes/index.js" />
       </list>
     </option>
   </component>
@@ -495,8 +118,8 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="61" />
-    <option name="y" value="23" />
+    <option name="x" value="387" />
+    <option name="y" value="118" />
     <option name="width" value="1069" />
     <option name="height" value="777" />
   </component>
@@ -529,29 +152,7 @@
             <path>
               <item name="RouterPattern" type="b2602c69:ProjectViewProjectNode" />
               <item name="RouterPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="files" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="RouterPattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RouterPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="files" type="462c0819:PsiDirectoryNode" />
-              <item name="pdf" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="RouterPattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RouterPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="files" type="462c0819:PsiDirectoryNode" />
-              <item name="pdf" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="RouterPattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RouterPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="javascripts" type="462c0819:PsiDirectoryNode" />
+              <item name="routes" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -633,17 +234,18 @@
       <workItem from="1523268318861" duration="5714000" />
       <workItem from="1523301187940" duration="165000" />
       <workItem from="1523357299589" duration="6504000" />
-      <workItem from="1523364966216" duration="2025000" />
+      <workItem from="1523364966216" duration="3208000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21880000" />
+    <option name="totallyTimeSpent" value="23063000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="23" y="23" width="1069" height="777" extended-state="0" />
+    <frame x="387" y="118" width="1069" height="777" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2461832" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2461832" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -652,7 +254,7 @@
       <window_info anchor="bottom" id="Run" order="2" weight="0.32647058" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3529412" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3529412" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.42352942" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -810,13 +412,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/routes/api/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/koa/lib/context.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="131">
@@ -894,13 +489,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/routes/users.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="37" lean-forward="true" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/koa-views/src/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
@@ -914,13 +502,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="52" lean-forward="true" selection-start-line="7" selection-start-column="52" selection-end-line="7" selection-end-column="87" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/routes/api/J1_router.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
         </state>
       </provider>
     </entry>
@@ -967,27 +548,48 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/routes/index.js">
+    <entry file="file://$PROJECT_DIR$/public/javascripts/viewer.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+        <state relative-caret-position="454">
+          <caret line="2064" column="24" selection-start-line="2064" selection-start-column="24" selection-end-line="2064" selection-end-column="24" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/api/J1_router.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        <state relative-caret-position="118">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/javascripts/viewer.js">
+    <entry file="file://$PROJECT_DIR$/routes/users.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="2061" column="45" lean-forward="true" selection-start-line="2061" selection-start-column="45" selection-end-line="2061" selection-end-column="45" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+        <state relative-caret-position="30">
+          <caret line="2" column="23" lean-forward="true" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/api/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="29" lean-forward="true" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
