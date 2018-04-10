@@ -1,6 +1,6 @@
 const router = require('koa-router')()
 
-router.prefix('/routes/api');
+router.prefix('/routes');
 
 router.get('/', async (ctx, next) => {
   await ctx.render('index', {
