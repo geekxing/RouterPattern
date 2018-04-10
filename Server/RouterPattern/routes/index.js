@@ -6,6 +6,12 @@ router.get('/', async (ctx, next) => {
   })
 })
 
+router.get('/haha', async (ctx, next) => {
+    await ctx.render('viewer.html', {
+      file: '111.pdf'
+    });
+})
+
 router.get('/string', async (ctx, next) => {
   ctx.body = 'koa2 string'
 })
