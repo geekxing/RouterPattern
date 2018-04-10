@@ -8,10 +8,8 @@ router.get('/', async (ctx, next) => {
   })
 })
 
-router.get('/pdf/51pdf', async (ctx, next) => {
-    await ctx.render('viewer.html', {
-      file: '111.pdf'
-    });
+router.get('/pdf', async (ctx, next) => {
+    await ctx.render('viewer.html');
 })
 
 router.get('/string', async (ctx, next) => {

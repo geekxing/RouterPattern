@@ -23,7 +23,6 @@ app.use(logger())
 app.use(require('koa-static')(__dirname + '/public'))
 
 app.use(views(__dirname + '/public/files/pdf/web', {
-    map: {html: 'nunjucks' },
     extension: 'pug'
 }))
 
