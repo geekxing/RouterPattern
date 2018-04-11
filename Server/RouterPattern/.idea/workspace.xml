@@ -3,94 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c5b566a5-5f30-4cd8-a5fe-e11ec7c74f78" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/files/pdf/web/images/annotation-check.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/files/pdf/web/images/annotation-comment.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/files/pdf/web/images/annotation-help.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/files/pdf/web/images/annotation-insert.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/files/pdf/web/images/annotation-key.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/files/pdf/web/images/annotation-newparagraph.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/files/pdf/web/images/annotation-noicon.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/files/pdf/web/images/annotation-note.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/files/pdf/web/images/annotation-paragraph.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/files/pdf/web/images/findbarButton-next-rtl.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/files/pdf/web/images/findbarButton-next-rtl@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/files/pdf/web/images/findbarButton-next.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/files/pdf/web/images/findbarButton-next@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/files/pdf/web/images/findbarButton-previous-rtl.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/files/pdf/web/images/findbarButton-previous-rtl@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/files/pdf/web/images/findbarButton-previous.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/files/pdf/web/images/findbarButton-previous@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/files/pdf/web/images/grab.cur" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/files/pdf/web/images/grabbing.cur" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/files/pdf/web/images/loading-icon.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/files/pdf/web/images/loading-small.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/files/pdf/web/images/loading-small@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/files/pdf/web/images/secondaryToolbarButton-documentProperties.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/files/pdf/web/images/secondaryToolbarButton-documentProperties@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/files/pdf/web/images/secondaryToolbarButton-firstPage.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/files/pdf/web/images/secondaryToolbarButton-firstPage@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/files/pdf/web/images/secondaryToolbarButton-handTool.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/files/pdf/web/images/secondaryToolbarButton-handTool@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/files/pdf/web/images/secondaryToolbarButton-lastPage.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/files/pdf/web/images/secondaryToolbarButton-lastPage@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/files/pdf/web/images/secondaryToolbarButton-rotateCcw.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/files/pdf/web/images/secondaryToolbarButton-rotateCcw@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/files/pdf/web/images/secondaryToolbarButton-rotateCw.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/files/pdf/web/images/secondaryToolbarButton-rotateCw@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/files/pdf/web/images/secondaryToolbarButton-selectTool.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/files/pdf/web/images/secondaryToolbarButton-selectTool@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/files/pdf/web/images/shadow.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/files/pdf/web/images/texture.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/files/pdf/web/images/toolbarButton-bookmark.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/files/pdf/web/images/toolbarButton-bookmark@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/files/pdf/web/images/toolbarButton-download.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/files/pdf/web/images/toolbarButton-download@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/files/pdf/web/images/toolbarButton-menuArrows.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/files/pdf/web/images/toolbarButton-menuArrows@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/files/pdf/web/images/toolbarButton-openFile.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/files/pdf/web/images/toolbarButton-openFile@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/files/pdf/web/images/toolbarButton-pageDown-rtl.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/files/pdf/web/images/toolbarButton-pageDown-rtl@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/files/pdf/web/images/toolbarButton-pageDown.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/files/pdf/web/images/toolbarButton-pageDown@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/files/pdf/web/images/toolbarButton-pageUp-rtl.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/files/pdf/web/images/toolbarButton-pageUp-rtl@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/files/pdf/web/images/toolbarButton-pageUp.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/files/pdf/web/images/toolbarButton-pageUp@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/files/pdf/web/images/toolbarButton-presentationMode.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/files/pdf/web/images/toolbarButton-presentationMode@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/files/pdf/web/images/toolbarButton-print.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/files/pdf/web/images/toolbarButton-print@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/files/pdf/web/images/toolbarButton-search.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/files/pdf/web/images/toolbarButton-search@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/files/pdf/web/images/toolbarButton-secondaryToolbarToggle-rtl.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/files/pdf/web/images/toolbarButton-secondaryToolbarToggle-rtl@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/files/pdf/web/images/toolbarButton-secondaryToolbarToggle.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/files/pdf/web/images/toolbarButton-secondaryToolbarToggle@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/files/pdf/web/images/toolbarButton-sidebarToggle-rtl.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/files/pdf/web/images/toolbarButton-sidebarToggle-rtl@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/files/pdf/web/images/toolbarButton-sidebarToggle.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/files/pdf/web/images/toolbarButton-sidebarToggle@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/files/pdf/web/images/toolbarButton-viewAttachments.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/files/pdf/web/images/toolbarButton-viewAttachments@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/files/pdf/web/images/toolbarButton-viewOutline-rtl.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/files/pdf/web/images/toolbarButton-viewOutline-rtl@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/files/pdf/web/images/toolbarButton-viewOutline.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/files/pdf/web/images/toolbarButton-viewOutline@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/files/pdf/web/images/toolbarButton-viewThumbnail.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/files/pdf/web/images/toolbarButton-viewThumbnail@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/files/pdf/web/images/toolbarButton-zoomIn.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/files/pdf/web/images/toolbarButton-zoomIn@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/files/pdf/web/images/toolbarButton-zoomOut.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/files/pdf/web/images/toolbarButton-zoomOut@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/files/pdf/web/images/treeitem-collapsed-rtl.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/files/pdf/web/images/treeitem-collapsed-rtl@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/files/pdf/web/images/treeitem-collapsed.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/files/pdf/web/images/treeitem-collapsed@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/files/pdf/web/images/treeitem-expanded.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/files/pdf/web/images/treeitem-expanded@2x.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/public/files/pdf/web/viewer.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/files/pdf/web/viewer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/javascripts/image.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/javascripts/image.server.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -104,11 +17,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="image.server.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="image.server.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/javascripts/image.server.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="83">
-              <caret line="18" column="22" lean-forward="true" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+            <state relative-caret-position="233">
+              <caret line="24" column="22" lean-forward="true" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="viewer.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/public/files/pdf/web/viewer.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="35" column="55" selection-start-line="35" selection-start-column="55" selection-end-line="35" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="viewer.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/javascripts/viewer.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="654" lean-forward="true" selection-start-line="654" selection-end-line="654" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -128,7 +62,6 @@
       <find>/web/viewer.html</find>
       <find>/pdf.js</find>
       <find>pd</find>
-      <find>pdfjsLib</find>
       <find>workers</find>
       <find>build/pdf.worker.js</find>
       <find>work</find>
@@ -146,6 +79,8 @@
       <find>defaultUrl</find>
       <find>image.js</find>
       <find>image.server.js</find>
+      <find>build/pdf.js</find>
+      <find>pdfjsLib</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -166,8 +101,8 @@
         <option value="$PROJECT_DIR$/app.js" />
         <option value="$PROJECT_DIR$/routes/index.js" />
         <option value="$PROJECT_DIR$/public/javascripts/viewer.js" />
-        <option value="$PROJECT_DIR$/public/files/pdf/web/viewer.html" />
         <option value="$PROJECT_DIR$/public/javascripts/image.js" />
+        <option value="$PROJECT_DIR$/public/files/pdf/web/viewer.html" />
       </list>
     </option>
   </component>
@@ -188,11 +123,11 @@
   <component name="NodeModulesDirectoryManager">
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="240" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-419" />
     <option name="y" value="23" />
     <option name="width" value="1037" />
-    <option name="height" value="707" />
+    <option name="height" value="777" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -218,6 +153,27 @@
               <item name="RouterPattern" type="b2602c69:ProjectViewProjectNode" />
               <item name="RouterPattern" type="462c0819:PsiDirectoryNode" />
               <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RouterPattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RouterPattern" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="files" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RouterPattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RouterPattern" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="files" type="462c0819:PsiDirectoryNode" />
+              <item name="pdf" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RouterPattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RouterPattern" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="files" type="462c0819:PsiDirectoryNode" />
+              <item name="pdf" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="RouterPattern" type="b2602c69:ProjectViewProjectNode" />
@@ -250,19 +206,19 @@
     <property name="settings.editor.selected.configurable" value="settings.nodejs" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/public/files/pdf/web" />
-      <recent name="$PROJECT_DIR$/public" />
-      <recent name="$PROJECT_DIR$/routes" />
-      <recent name="$PROJECT_DIR$/public/stylesheets" />
-      <recent name="$PROJECT_DIR$/public/javascripts" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/views" />
       <recent name="$PROJECT_DIR$/public/files/pdf" />
       <recent name="$PROJECT_DIR$/public/files" />
       <recent name="$PROJECT_DIR$/public" />
       <recent name="$PROJECT_DIR$/public/images/J1" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/files/pdf/web" />
+      <recent name="$PROJECT_DIR$/public" />
+      <recent name="$PROJECT_DIR$/routes" />
+      <recent name="$PROJECT_DIR$/public/stylesheets" />
+      <recent name="$PROJECT_DIR$/public/javascripts" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -312,24 +268,24 @@
       <workItem from="1523301187940" duration="165000" />
       <workItem from="1523357299589" duration="6504000" />
       <workItem from="1523364966216" duration="5678000" />
-      <workItem from="1523421862171" duration="3983000" />
+      <workItem from="1523421862171" duration="5546000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29516000" />
+    <option name="totallyTimeSpent" value="31079000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="26" y="23" width="1037" height="707" extended-state="0" />
+    <frame x="1" y="23" width="1037" height="777" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.253937" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.253937" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3286385" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3262295" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.29264706" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.39344263" />
@@ -635,34 +591,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/javascripts/viewer.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30570">
-          <caret line="2058" column="27" selection-start-line="2058" selection-start-column="27" selection-end-line="2058" selection-end-column="27" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/javascripts/pdf.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45075">
-          <caret line="3005" column="29" selection-start-line="3005" selection-start-column="29" selection-end-line="3005" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/files/pdf/web/viewer.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
@@ -681,10 +613,34 @@
       </provider>
       <provider editor-type-id="sourcemapFileViewerProvider" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/public/javascripts/pdf.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="3005" column="29" selection-start-line="3005" selection-start-column="29" selection-end-line="3005" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/public/javascripts/image.server.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="83">
-          <caret line="18" column="22" lean-forward="true" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+        <state relative-caret-position="233">
+          <caret line="24" column="22" lean-forward="true" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/javascripts/viewer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="654" lean-forward="true" selection-start-line="654" selection-end-line="654" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/files/pdf/web/viewer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="35" column="55" selection-start-line="35" selection-start-column="55" selection-end-line="35" selection-end-column="55" />
         </state>
       </provider>
     </entry>
