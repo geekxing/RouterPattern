@@ -5,7 +5,6 @@ let imgSuffixes = ["png", "gif", "jpeg", "jpg"]
 
 http.createServer((req, res) => {
     console.log(req.headers.host + req.url);
-    console.log("current path is: " + __dirname);
 
     let path = '..' + decodeURI(req.url)
 
