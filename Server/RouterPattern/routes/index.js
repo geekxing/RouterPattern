@@ -8,7 +8,7 @@ router.get('/', async (ctx, next) => {
   })
 })
 
-router.get('/pdf', async (ctx, next) => {
+router.get('/public/pdf', async (ctx, next) => {
     await ctx.render('viewer.html');
 })
 
