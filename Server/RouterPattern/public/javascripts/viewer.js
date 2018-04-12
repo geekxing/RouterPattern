@@ -3228,7 +3228,7 @@ var defaultOptions = {
     kind: OptionKind.VIEWER
   },
   defaultUrl: {
-    value: '五一南京行程.pdf',
+    value: '五一南京行程.compressed.pdf',
     kind: OptionKind.VIEWER
   },
   defaultZoomValue: {
