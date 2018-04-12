@@ -37,8 +37,8 @@
       <file leaf-file-name="viewer.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/public/javascripts/viewer.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="3230" column="12" selection-start-line="3230" selection-start-column="12" selection-end-line="3230" selection-end-column="12" />
+            <state relative-caret-position="173">
+              <caret line="3237" column="22" lean-forward="true" selection-start-line="3237" selection-start-column="22" selection-end-line="3237" selection-end-column="22" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -120,8 +120,8 @@
         <option value="$PROJECT_DIR$/public/javascripts/image.js" />
         <option value="$PROJECT_DIR$/routes/index.js" />
         <option value="$PROJECT_DIR$/public/files/pdf/web/viewer.html" />
-        <option value="$PROJECT_DIR$/public/javascripts/viewer.js" />
         <option value="$PROJECT_DIR$/middlewares/response_formatter.js" />
+        <option value="$PROJECT_DIR$/public/javascripts/viewer.js" />
       </list>
     </option>
   </component>
@@ -143,7 +143,7 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="222" />
+    <option name="x" value="41" />
     <option name="y" value="23" />
     <option name="width" value="1037" />
     <option name="height" value="777" />
@@ -176,6 +176,27 @@
             <path>
               <item name="RouterPattern" type="b2602c69:ProjectViewProjectNode" />
               <item name="RouterPattern" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="files" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RouterPattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RouterPattern" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="files" type="462c0819:PsiDirectoryNode" />
+              <item name="pdf" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RouterPattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RouterPattern" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="files" type="462c0819:PsiDirectoryNode" />
+              <item name="pdf" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RouterPattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RouterPattern" type="462c0819:PsiDirectoryNode" />
               <item name="routes" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -199,11 +220,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/files/pdf/web" />
       <recent name="$PROJECT_DIR$/views" />
       <recent name="$PROJECT_DIR$/public/files/pdf" />
       <recent name="$PROJECT_DIR$/public/files" />
       <recent name="$PROJECT_DIR$/public" />
-      <recent name="$PROJECT_DIR$/public/images/J1" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/public/files/pdf/web" />
@@ -260,18 +281,18 @@
       <workItem from="1523301187940" duration="165000" />
       <workItem from="1523357299589" duration="6504000" />
       <workItem from="1523364966216" duration="5678000" />
-      <workItem from="1523421862171" duration="9161000" />
+      <workItem from="1523421862171" duration="9540000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34694000" />
+    <option name="totallyTimeSpent" value="35073000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="353" y="23" width="1037" height="777" extended-state="0" />
+    <frame x="440" y="23" width="1037" height="777" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.253937" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.253937" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -282,7 +303,7 @@
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.39264706" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.42205882" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.42205882" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -636,8 +657,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/public/javascripts/viewer.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="3230" column="12" selection-start-line="3230" selection-start-column="12" selection-end-line="3230" selection-end-column="12" />
+        <state relative-caret-position="173">
+          <caret line="3237" column="22" lean-forward="true" selection-start-line="3237" selection-start-column="22" selection-end-line="3237" selection-end-column="22" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
